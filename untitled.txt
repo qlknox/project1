@@ -1,0 +1,5 @@
+
+GIT class
+http://git.or.cz/course/svn.html
+add collaborators so someone can add code to the repository
+
