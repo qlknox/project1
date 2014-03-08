@@ -3,3 +3,51 @@ GIT class
 http://git.or.cz/course/svn.html
 add collaborators so someone can add code to the repository
 
+make simultaneous changes to the file
+git pull to get the latest changes
+
+git add says I wants to add this 
+git commit -m give the commit 
+
+showing us what happens when they are both working on this file at the same time 
+git push (push his changes) but someone else did a push at the same time
+
+merge the two branchs 
+mate file name was the command to merge the two
+
+now that it did that what else? 
+git blame file name 
+command allows us to see who did what at what time etc...
+ability to create an organization 
+
+now this repositories can have certain permissions etc... so the professor has uunlimited access etc 
+group has subsets of repository 
+
+create teams in this organizaton area 
+
+https://education.github.com/discount_requests/new
+
+request free account to do github project 
+
+create a new team organization 
+fork makes a copy of the repository in your own folder/repository 
+
+it's in your home directory and you can do whatever you like with it 
+this concept is known as forking
+with symmetry we can have changes come back in with the pull request
+
+people with read only access come in through a review process... only the instructor can approve the changes. we can give feedback etc... 
+
+github members allow you to see who HAS forked the project 
+can also use the graph to see who HAS forked the project 
+
+pull select a series of changes and seem them back to the teacher
+
+use github for pair programming
+
+How can we allow students to get exposure to using github before giving them the github project for the binary search algorithm
+
+teacher can download all of the code to desktop via cloning 
+then you can merge the accounts 
+
+ 
