@@ -57,4 +57,5 @@ jenkins server on your own
 
 research testing sites 
 
+don’t forget to log in remote to the repo
  
