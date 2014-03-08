@@ -49,7 +49,12 @@ How can we allow students to get exposure to using github before giving them the
 teacher can download all of the code to desktop via cloning 
 then you can merge the accounts 
 
-circleci.com - create a script for testing 
-travis-ci.org
+circleci.com - create a script for testing is good for privacy and grading purposes 
+travis-ci.org is FREE and community driven; gives privacy around the repos
+clubbies is continuous integration which is just automatic testing 
+auto grader 
+jenkins server on your own 
+
+research testing sites 
 
  
